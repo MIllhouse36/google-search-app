@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/MIllhouse36/google-search-app#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bootstrap": "^5.1.1",
     "express": "^4.17.1",
     "if-env": "^1.0.4",
